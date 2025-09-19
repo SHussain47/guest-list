@@ -56,4 +56,13 @@ tbody {
   padding: auto;
 }
 
+.detail {
+  margin: 6px 0;
+}
 
+.back-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 2px 0;
+  width: 90%;
+}
